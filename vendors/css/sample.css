@@ -33,14 +33,14 @@ li {
 }
 .left  {
   float: left;
-  width: 250px;
+  width: auto;
 }
 .right {
   float: right;
-  width: 250px;
 }
 .top_menu ul.right {
   float: left;
+  width: auto;
 }
 /* Up to here is the implementation of the header part */
 .main-header img {
